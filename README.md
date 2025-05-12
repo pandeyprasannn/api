@@ -1,1 +1,3 @@
-# api
+# stat9 api
+
+CONTAINS ALL TEAM AND PLAYERS DATA OF MLB
